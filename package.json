@@ -1,0 +1,16 @@
+{
+  "name": "my-hour",
+  "version": "1.0.0",
+  "main": "app.js",
+  "private": true,
+  "author": "Scipio14",
+  "license": "MIT",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "dependencies": {
+    "date-fns-tz": "^1.2.2",
+    "parcel": "^2.2.1"
+  }
+}
