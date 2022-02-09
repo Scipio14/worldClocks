@@ -94,3 +94,9 @@ body {
   font-size: 0.8rem;
   text-transform: uppercase;
 }
+
+.flag{
+  width:250px;
+  height: auto;
+  border-radius: 5px;
+}

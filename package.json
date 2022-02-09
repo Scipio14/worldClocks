@@ -6,11 +6,11 @@
   "author": "Scipio14",
   "license": "MIT",
   "scripts": {
-    "start":"parcel index.html",
-    "build":"parcel build index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "dependencies": {
-    "date-fns-tz": "^1.2.2",
-    "parcel": "^2.2.1"
+    "date-fns-tz": "1.2.2",
+    "parcel": "2.2.1"
   }
 }
